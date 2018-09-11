@@ -1,0 +1,13 @@
+{
+    "dev": {
+        "app_function": "pvh_digital.app.app",
+        "aws_region": "us-east-1",
+        "project_name": "pvh-tommy-jp-digital-assistant",
+        "s3_bucket": "pvh-tommy-jp-digital-assistant-dev",
+        "keep_warm": false,
+        "debug": true,
+        "log_level": "DEBUG",
+        "runtime": "python3.6",
+        "manage_roles": "True"
+    }
+}
